@@ -1,5 +1,5 @@
 {
-  "name": "pm2-axon-rpc",
+  "name": "pm2t-axon-rpc",
   "version": "0.6.0",
   "description": "Remote procedure calls built on top of axon.",
   "keywords": [
